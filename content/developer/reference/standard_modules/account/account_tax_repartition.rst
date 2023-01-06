@@ -4,7 +4,7 @@
 Tax Repartitions
 ================
 
-.. automodel:: odoo.addons.account.models.chart_template.AccountTaxRepartitionLineTemplate
+.. automodel:: odoo.addons.account.models.account_tax.AccountTaxRepartitionLine
     :main:
 
     .. autofield:: factor_percent
